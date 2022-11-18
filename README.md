@@ -5,7 +5,7 @@ To reduce customer churn, telecom companies need to predict which customers are 
 Retaining high profitable customers is the main business goal here.
 
 Steps:-
-Reading, understanding and visualising the data
-Preparing the data for modelling
-Building the model
-Evaluate the model
+1.Reading, understanding and visualising the data
+2.Preparing the data for modelling
+3.Building the model
+4.Evaluate the model
